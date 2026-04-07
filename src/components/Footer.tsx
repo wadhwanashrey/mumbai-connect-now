@@ -16,7 +16,7 @@ const Footer = () => (
           <div className="overflow-hidden rounded-xl border border-zinc-200">
             <iframe
               title="Mumbai Cool AC Repair Location"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.6!2d72.908!3d19.086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTnCsDA1JzEwLjAiTiA3MsKwNTQnMjkuMCJF!5e0!3m2!1sen!2sin!4v1700000000000"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.6!2d72.9054!3d19.0861!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c8866a456381%3A0x1234567890abcdef!2s14B%2C+90+Feet+Rd%2C+Ghatkopar+East%2C+Mumbai!5e0!3m2!1sen!2sin!4v1700000000000"
               width="100%"
               height="180"
               style={{ border: 0 }}
